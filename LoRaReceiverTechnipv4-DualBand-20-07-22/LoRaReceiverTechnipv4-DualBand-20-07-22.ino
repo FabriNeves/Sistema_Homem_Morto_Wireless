@@ -2,7 +2,7 @@
  * LoraReceiverData
  * A for receiving and sending data using radio lora.
  *
- * Copyright (c) 2020 Iluminiun technology inc.
+ * Copyright (c) 2020 Iluminiun inc.
  * Email      : eng.fbneves@gmail.com
  * Author     : Fabrício Neves
  * Create Time: 9 April,2020
