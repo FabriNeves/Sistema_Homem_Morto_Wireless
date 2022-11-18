@@ -32,19 +32,29 @@ por meio do gerenciador de "placas".
 ### Receptor 
 
  0  => Sinal da Porta 
+ 
  17 => Mudança de frequência
+ 
  32 => Saída Rele 1 
+ 
  33 => Saída Rele 2
+ 
 
 
 ### Transmissor 
 
 13 => Botão DeepSleep
+
 12 ou 0 => Led Bateria
+
 17 => Led On
+
 36 => Tensão da bateria
+
 9 => SCL Acelerometro 
+
 19 => SDA Acelerometro
+
 
 
 
