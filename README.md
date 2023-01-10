@@ -66,3 +66,8 @@ por meio do gerenciador de "placas".
 <img src="./imagens/Receptor.png" alt="HeltecLoRa PinOut" height="300"> 
 
 <img src="./imagens/Prot%C3%B3tipos.jpg" alt="HeltecLoRa PinOut" height="400"> 
+
+
+### Instalação no Local
+
+<img src="./imagens/painelInstalacao.png"> 
